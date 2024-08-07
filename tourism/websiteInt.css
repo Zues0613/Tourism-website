@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://images.unsplash.com/photo-1512100356356-de1b84283e18?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.button {
+    height: 36px;
+    width: 126px;
+    background-color: #25b1cc;
+    color: white;
+    border-radius: 50px;
+    border-width: 0px;
+    margin-bottom: 20px;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Roboto;
+}
+
+.main-container {
+    background-image: url("https://w.forfun.com/fetch/c1/c13efc04c42d6f687945999afae7c0ac.jpeg?h=900&r=0.5");
+    height: auto;
+    background-size: cover;
+}
+
+.main-heading {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 2.5em;
+    padding: 20px;
+}
+
+.places-card {
+    background-color: white;
+    border-radius: 20px;
+    margin: 15px;
+    height: auto;
+    padding: 10px;
+}
+
+.card-info {
+    padding: 5px;
+}
+
+.card-heading {
+    color: #00008B;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.card-description {
+    color: #808080;
+}
+
+.card-img {
+    height: 100px;
+    width: 80px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.card-photo {
+    padding: 5px;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-cntainer {
+    background-image: url("https://w.forfun.com/fetch/be/be8aa5a47861cf3c027ea1957ca6cafd.jpeg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.heading {
+    color: white;
+    font-size: 2.5em;
+    font-family: Roboto;
+    padding: 10px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.content {
+    background-color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin: 20px;
+    margin-top: 50px;
+    align-self: center;
+}
+
+.desc-desc {
+    color: grey;
+    font-family: Roboto;
+    font-size: 13px;
+}
+
+.desc-heading {
+    color: #151B54;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.desc-desc {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+}
